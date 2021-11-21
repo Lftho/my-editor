@@ -17,4 +17,4 @@ Por fim, empacotaremos nosso aplicativo como um único arquivo executável que p
 Para executar o projeto, necessário usar o `ng serve`. Link do navegador `http://localhost:4200/`.
 
 Esse será o produto que iremos construir:
-<img src="/Users/macbookpro/Desktop/jasmine/packtpub/my-editor/src/assets/my-editor.jpeg" alt="my-editor">
+<img src="https://github.com/Lftho/my-editor/blob/master/src/assets/my-editor.jpeg" alt="my-editor">
